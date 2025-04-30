@@ -61,8 +61,6 @@ After training:
 - **MAE**: 0.37 kg/ha  
 - **R² Score**: 1.0
 
-> (Replace with actual numbers after training)
-
 ---
 
 ### 📈 Training History Plot
